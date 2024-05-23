@@ -12,7 +12,9 @@ It is useful for:
 ## Models
 This is the model we used for the programming paradigm.
 
+
 ![Programming Paradigm drawio](https://github.com/Gabriel-Delfin/Programming-Paradigm/assets/100104960/6ba183d2-f4a6-43bd-b931-6e0d83857fc1)
+
 
 - Read CSV File: The program starts by reading the content of a CSV file containing user information and parsing it by using "read_and_extract_data()".
 - Process Data: The program counts the number of users and emails domains by using "process_data()".
