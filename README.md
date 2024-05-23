@@ -22,4 +22,4 @@ This is the model we used for the programming paradigm.
 
 
 ## Code
-If you wish to download the code, I will leave a document called "programming_paradigm" explaining how to run the code and explaining every part of the program.
+If you wish to download the code, I will leave a document called "programming_paradigm.pdf" explaining how to run the code and explaining every part of the program.
